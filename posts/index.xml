@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Software development and project life-cycles</title>
+    <link>https://Diaana741.github.io/posts/</link>
+    <description>Recent content in Posts on Software development and project life-cycles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 21:41:30 +0200</lastBuildDate><atom:link href="https://Diaana741.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile</title>
+      <link>https://Diaana741.github.io/posts/agile/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/agile/</guid>
+      <description>Agile model can be seen as Software Development Life Cycle model in which the focus is put on process adaptability and satisfied customer (Samuel, 2020: 19). The model has recently been widely used approach in the software development process (Samuel, 2020: 21).
+The five main values of using agile approach, is communication, simplicity, feedback, courage and humility. The approach can be characterized as a group of software development methodologies that are based on incremental and iterative approach.</description>
+    </item>
+    
+    <item>
+      <title>Big Bang model</title>
+      <link>https://Diaana741.github.io/posts/big-bang-model/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/big-bang-model/</guid>
+      <description>Big Bang model can be characterized as very simple, because it requires little planning, a lot of programming and funds. Very small amount of planning is used in this model. It is good model to use when customer is not sure what he or she wants and what will be necessary in the future. Big Bang model is not good for big software projects, and should better be used in the learning and experimenting process (Tutorialspoint, 2020b: 4).</description>
+    </item>
+    
+    <item>
+      <title>Iterative model</title>
+      <link>https://Diaana741.github.io/posts/iterative-model/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/iterative-model/</guid>
+      <description>Iterative project management approach can be seen as alternative to the Waterfall model. Risks are identified early when using this model and it is possible to react in fast and efficient way. (Kruchten, 2001: 3-4). In the iterative project management approach the development process is cut in a series of repeated loops or iterations. With each iteration, new features are added or old ones are improved. At the end of each iteration, a new version of the software is produced.</description>
+    </item>
+    
+    <item>
+      <title>Spiral model</title>
+      <link>https://Diaana741.github.io/posts/spiral-model/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/spiral-model/</guid>
+      <description>Spiral model can be characterized as the combination of iterative and SDLC (Software Development Life Cycle) model. It can be seen as chhosing and SDLC and then combining it with the cyclic process iterative model. It is important to note that risk consideration is a part of the model. The Spiral model starts with determining objectives and constraints of the software at the start of one iteration. Then prototyping the software takes place, and it also includes risk analysis.</description>
+    </item>
+    
+    <item>
+      <title>V - model</title>
+      <link>https://Diaana741.github.io/posts/v-model/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/v-model/</guid>
+      <description>In the V model development and testing activity is started based on requirement specification document. Developer team work in the design and after that start implementation, testing team plans testing. Activities are happening parallel. Activities in Waterfall model and in V model are characterized as similar (STC Admin, 2012).
+V-model can also be called Verification and Validation model. Testing activity happens in each phase. Typical representation of the V model represents software development activities on the left side and testing phases on the right side.</description>
+    </item>
+    
+    <item>
+      <title>Waterfall model</title>
+      <link>https://Diaana741.github.io/posts/waterfall/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/posts/waterfall/</guid>
+      <description>Gourab Dutta (Dutta, 2020: 1-3) notes that the Waterfall Model was first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model. The main principle of the model is that each phase must be completed before the next phase can start.
+This type of software development model is basically used for small projects without uncertain requirements. In the end of each phase, there is a review and it determines if the project is on the right path.</description>
+    </item>
+    
+  </channel>
+</rss>

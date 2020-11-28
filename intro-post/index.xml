@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro posts on Software development and project life-cycles</title>
+    <link>https://Diaana741.github.io/intro-post/</link>
+    <description>Recent content in Intro posts on Software development and project life-cycles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 21:41:30 +0200</lastBuildDate><atom:link href="https://Diaana741.github.io/intro-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://Diaana741.github.io/intro-post/about/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/intro-post/about/</guid>
+      <description>What is a project?
+Project Management Institute notes that project is a temporary endeavor undertaken to create a unique product, service, or result. The temporary nature of projects indicates that a project has a definite beginning and end. The end is reached when the project’s objectives have been achieved or when the project is terminated because its objectives will not or cannot be met, or when the need for the project no longer exists.</description>
+    </item>
+    
+    <item>
+      <title>Project life cycle</title>
+      <link>https://Diaana741.github.io/intro-post/project-life-cycle/</link>
+      <pubDate>Fri, 20 Nov 2020 21:41:30 +0200</pubDate>
+      
+      <guid>https://Diaana741.github.io/intro-post/project-life-cycle/</guid>
+      <description>A project life cycle is the series of phases that a project passes through from its initiation to its closure. The phases are generally sequential, and their names and numbers are determined by the management and control needs of the organization or organizations involved in the project, the nature of the project itself, and its area of application. The phases can be broken down by functional or partial objectives, intermediate results or deliverables, specific milestones within the overall scope of work, or financial availability.</description>
+    </item>
+    
+  </channel>
+</rss>
